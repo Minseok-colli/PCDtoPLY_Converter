@@ -1,7 +1,7 @@
 # PCDtoPLY_Converter
 Change the Pointcloud file to PLY format.
 
-#2 How to Use
+# How to Use
 Select the file which you want to convert in PlY files.
 
 Select the PCD file and convert.
